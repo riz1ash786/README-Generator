@@ -32,6 +32,30 @@ const questions = [
   },
   {
     type: "input",
+    name: "email",
+    message: "Enter your email address",
+    validate: (input) => {
+      if (input) {
+        return true;
+      } else {
+        return "Please complete this field";
+      }
+    },
+  },
+  {
+    type: "input",
+    name: "github",
+    message: "Enter your Github username",
+    validate: (input) => {
+      if (input) {
+        return true;
+      } else {
+        return "Please complete this field";
+      }
+    },
+  },
+  {
+    type: "input",
     name: "installation",
     message: "Enter the installation instructions",
     validate: (input) => {

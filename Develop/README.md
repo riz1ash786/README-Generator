@@ -1,52 +1,42 @@
-# TESTNEW
+# README Generator1
+  undefined
 
-## Table of contents
+  ## Table of contents
+  - [Description](#description)
+  - [Installation](#installation-instructions)
+  - [Usage](#usage-information)
+  - [Contributing](#contributing-guidelines)
+  - [Tests](#test-instructions)
+  - [License](#license)
+  - [Deployed application](#deployed-application)
+  - [GitHub repository](#github-repository)
+  - [Questions](#questions)
 
-- [Description](#description)
-- [Installation](#installation-instructions)
-- [Usage](#usage-information)
-- [Contributing](#contributing-guidelines)
-- [Tests](#test-instructions)
-- [License](#license)
-- [Deployed application](#deployed-application)
-- [GitHub repository](#github-repository)
-- [Questions](#questions)
+  ## Description
+  Testemailgithub
 
-## Description
+  ## Installation
+  frfrfrf
+  
+  ## Usage 
+  fqrfqrefr
 
-Homeowrks
+  ## Contributing
+  rfrfrfqefr
 
-## Installation
+  ## Tests
+  rfeqffref
 
-scDFFdfd
+  ## License
+  undefined
 
-## Usage
+  ## The URL of the deployed application
+  https://riz1ash786.github.io/portfolio/
 
-dcfdfcdCDC
+  ## The URL of the GitHub repository
+  https://riz1ash786.github.io/portfolio/
 
-## Contributing
-
-FdcdCDCdc
-
-## Tests
-
-DCDCDSdsfds
-
-## License
-
-undefined
-
-## The URL of the deployed application
-
-https://github.com/riz1ash786/portfolio
-
-## The URL of the GitHub repository
-
-https://github.com/riz1ash786/portfolio
-
-## Questions
-
-For any additional questions, please get in touch with me via github or email. Thank you.
-
-- Github - https://github.com/undefined
-- Email address - undefined
+  ## Questions
+  If you have any additional quesitons then please get in touch via github or email. Thank you.
+  - Github - https://github.com/riz1ash786
+  - Email address - riz1ash786@gmail.com
