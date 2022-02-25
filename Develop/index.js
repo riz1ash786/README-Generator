@@ -78,6 +78,30 @@ const questions = [
       }
     },
   },
+  {
+    type: "input",
+    name: "urldeployed",
+    message: "Enter the URL of the deployed application",
+    validate: (input) => {
+      if (input) {
+        return true;
+      } else {
+        return "Please complete this field";
+      }
+    },
+  },
+  {
+    type: "input",
+    name: "urlgithub",
+    message: "Enter the URL of the GitHub repository",
+    validate: (input) => {
+      if (input) {
+        return true;
+      } else {
+        return "Please complete this field";
+      }
+    },
+  },
 ];
 
 // TODO: Create a function to write README file

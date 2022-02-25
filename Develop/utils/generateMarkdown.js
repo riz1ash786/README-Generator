@@ -16,13 +16,15 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
   ## Table of contents
 
-  1. [Description](#description)
-  2. [Installation instructions](#installation-instructions)
-  3. [Usage information](#usage-information)
-  4. [Contributing guidelines](#contributing-guidelines)
-  5. [Test instructions](#test-instructions)
-  6. [License](#license)
-  7. [Questions](#questions)
+  - [Description](#description)
+  - [Installation](#installation-instructions)
+  - [Usage](#usage-information)
+  - [Contributing](#contributing-guidelines)
+  - [Tests](#test-instructions)
+  - [License](#license)
+  - [Deployed application](#deployed-application)
+  - [GitHub repository](#github-repository)
+  - [Questions](#questions)
 
   ## Description
   ${data.description}
@@ -41,15 +43,17 @@ function generateMarkdown(data) {
 
   ## License
   ${renderLicenseSection(data.license)}
-  ${renderLicenseLink(data.license)}
+
+  ## The URL of the deployed application
+  ${data.urldeployed}
+
+  ## The URL of the GitHub repository
+  ${data.urlgithub}
 
   ## Questions
-
-  If you have any quesitons about the application then please contact me via github or email.
-
-  Github - https://github.com/${data.github}
-
-  Email address - ${data.email}`;
+  If you have any additional quesitons then please get in touch via github or email. Thank you.
+  - Github - https://github.com/${data.github}
+  - Email address - ${data.email}`;
 }
 
 module.exports = generateMarkdown;
