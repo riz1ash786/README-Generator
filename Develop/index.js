@@ -52,7 +52,6 @@ const questions = [
       "N/A",
     ],
     default: 9,
-
     validate: (input) => {
       if (input) {
         return true;

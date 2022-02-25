@@ -1,4 +1,4 @@
-# README GENERATOR
+# README Gen123
 
   ## Table of contents
   - [Description](#description)
@@ -12,23 +12,24 @@
   - [Questions](#questions)
 
   ## Description
-  WHo knows
+  12345
 
   ## Installation
-  fgqrgqrgre
+  efergfrgrgqrdg
   
   ## Usage 
-  rtqrgregtrtgqrg
+  rfgrdfgqrdgvdqrgqdr
 
   ## Contributing
-  rgergrg
+  grg	rgfrgrgf
 
   ## Tests
-  rtgtgqw
+  fgrfgrfgrg
 
   ## License
-  ![License(mit](https://img.shields.io/badge/License-mit_1.0-brightgreen.svg)]
+  ![License (mit](https://img.shields.io/badge/License-mit_1.0-brightgreen.svg)
   mit
+  [License (mit](https://opensource.org/licenses/mit)
 
   ## The URL of the deployed application
   https://github.com/riz1ash786/README-Generator
