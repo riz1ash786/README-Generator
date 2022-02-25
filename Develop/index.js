@@ -9,7 +9,7 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "Enter project title",
+    message: "Enter a project title",
     validate: (input) => {
       if (input) {
         return true;
@@ -33,7 +33,7 @@ const questions = [
   {
     type: "input",
     name: "installation",
-    message: "Enter installation instructions",
+    message: "Enter the installation instructions",
     validate: (input) => {
       if (input) {
         return true;
@@ -45,7 +45,7 @@ const questions = [
   {
     type: "input",
     name: "usage",
-    message: "Enter usage information",
+    message: "Enter the usage information",
     validate: (input) => {
       if (input) {
         return true;
@@ -57,7 +57,7 @@ const questions = [
   {
     type: "input",
     name: "contributing",
-    message: "Enter contribution guidelines",
+    message: "Enter the contribution guidelines",
     validate: (input) => {
       if (input) {
         return true;
@@ -69,7 +69,7 @@ const questions = [
   {
     type: "input",
     name: "test",
-    message: "Enter test instructions",
+    message: "Enter the test instructions",
     validate: (input) => {
       if (input) {
         return true;
@@ -108,7 +108,7 @@ const questions = [
 function writeToFile(fileName, data) {
   console.log(data);
   fs.writeFile(fileName, generateMarkdown(data), (err) =>
-    err ? console.log(err) : console.log("success!")
+    err ? console.log(err) : console.log("readme successfully generated!")
   );
 }
 
