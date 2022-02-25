@@ -1,5 +1,4 @@
-# README Generator1
-  undefined
+# README GENERATOR
 
   ## Table of contents
   - [Description](#description)
@@ -13,28 +12,29 @@
   - [Questions](#questions)
 
   ## Description
-  Testemailgithub
+  WHo knows
 
   ## Installation
-  frfrfrf
+  fgqrgqrgre
   
   ## Usage 
-  fqrfqrefr
+  rtqrgregtrtgqrg
 
   ## Contributing
-  rfrfrfqefr
+  rgergrg
 
   ## Tests
-  rfeqffref
+  rtgtgqw
 
   ## License
-  undefined
+  ![License(mit](https://img.shields.io/badge/License-mit_1.0-brightgreen.svg)]
+  mit
 
   ## The URL of the deployed application
-  https://riz1ash786.github.io/portfolio/
+  https://github.com/riz1ash786/README-Generator
 
   ## The URL of the GitHub repository
-  https://riz1ash786.github.io/portfolio/
+  https://github.com/riz1ash786/README-Generator
 
   ## Questions
   If you have any additional quesitons then please get in touch via github or email. Thank you.

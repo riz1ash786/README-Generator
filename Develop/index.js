@@ -31,6 +31,37 @@ const questions = [
     },
   },
   {
+    type: "list",
+    name: "license",
+    message: "Please select a license",
+    choices: [
+      "afl-3.0agpl-3.0",
+      "apache-2.0",
+      "bsd-0-clause",
+      "cc-by-sa-4.0",
+      "ecl-2.0",
+      "epl-2.0",
+      "eupl-1.2",
+      "gpl-3.0",
+      "lgpl-3.0",
+      "mit",
+      "mpl-2.0",
+      "ms-pl",
+      "ms-rl",
+      "osl-3.0",
+      "N/A",
+    ],
+    default: 9,
+
+    validate: (input) => {
+      if (input) {
+        return true;
+      } else {
+        return "Please complete this field";
+      }
+    },
+  },
+  {
     type: "input",
     name: "email",
     message: "Enter your email address",
