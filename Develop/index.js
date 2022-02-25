@@ -42,7 +42,6 @@ const questions = [
       }
     },
   },
-
   {
     type: "input",
     name: "usage",
@@ -92,7 +91,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then((data) => {
-    writeToFile("Generating README.md file", data);
+    writeToFile("README.md", data);
   });
 }
 
