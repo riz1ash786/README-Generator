@@ -14,7 +14,7 @@
 
 ## Description
 
-A README generator to quickly create a professional README for a new project
+A README generator to quickly create a professional README for a new project using command line and node.js
 
 ## Installation
 
@@ -26,7 +26,7 @@ Step 2
 Right click on Develop and enter Develop folder in terminal
 
 Step 3
-Enter npm i to install
+Enter 'npm i' to install
 
 Step 4
 Enter 'node index.js' in terminal
@@ -37,11 +37,11 @@ Complete the questions in terminal to successfully generate a README.
 
 ## Contributing
 
-There are no contributing guidelines at this moment in time.
+There are no contributing guidelines at this moment in time. Please check back in the future.
 
 ## Tests
 
-There are no test instructions at this moment in time.
+There are no test instructions at this moment in time. Please check back in the future.
 
 ## License
 
@@ -64,6 +64,6 @@ If you have any additional quesitons then please get in touch via github or emai
 - Github - https://github.com/riz1ash786
 - Email address - riz1ash786@gmail.com
 
-## Video demonstration
+## Video demonstration Link
 
-![Walkthrough Demo](./Images/walkthrough-demo.mp4)
+https://drive.google.com/drive/folders/1WCFCTv4sibV_9n_EjjVrbJe7X6ESdvvB
