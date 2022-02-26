@@ -58,8 +58,8 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## License
-  ${renderLicenseBadge(data.license)}\
-  - License Name: ${renderLicenseSection(data.license)}\
+  ${renderLicenseBadge(data.license)} <br />
+  - License Name: ${renderLicenseSection(data.license)} <br />
   - License Link: ${renderLicenseLink(data.license)}
 
   ## The URL of the deployed application
