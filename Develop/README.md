@@ -1,4 +1,4 @@
-# Saturday 26th Licenses
+# README Generator
 
   ## Table of contents
   - [Description](#description)
@@ -12,32 +12,32 @@
   - [Questions](#questions)
 
   ## Description
-  rgwtgtg
+  A README generator to quickly create a professional README for a new project
 
   ## Installation
-  gfhbgf
+  Enter the installation instructions
   
   ## Usage 
-  bgfb
+  Enter the usage information
 
   ## Contributing
-  sgfbgf
+  Enter the contribution guidelines
 
   ## Tests
-  bgbgsfb
+  Enter the test instructions
 
   ## License
-  ![License (PostgreSQL](https://img.shields.io/badge/License-PostgreSQL_1.0-brightgreen.svg) <br />
-  License Name: PostgreSQL <br />
-  License Link: [PostgreSQL](https://opensource.org/licenses/PostgreSQL)
+  ![License (MIT](https://img.shields.io/badge/License-MIT_1.0-brightgreen.svg) <br />
+  License Name: MIT <br />
+  License Link: [MIT](https://opensource.org/licenses/MIT)
 
   ## The URL of the deployed application
-  fgbgg
+  There is no URL of the deployed application on this occasion
 
   ## The URL of the GitHub repository
-  bgfbgwfbfgb
+  https://github.com/riz1ash786/README-Generator
 
   ## Questions
   If you have any additional quesitons then please get in touch via github or email. Thank you.
-  - Github - https://github.com/gwhwfbh
-  - Email address - ghbfgwhbwgfh
+  - Github - https://github.com/riz1ash786
+  - Email address - riz1ash786@gmail.com
