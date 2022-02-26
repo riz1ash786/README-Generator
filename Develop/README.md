@@ -1,4 +1,4 @@
-# test readme
+# README Formatting
 
   ## Table of contents
   - [Description](#description)
@@ -12,32 +12,30 @@
   - [Questions](#questions)
 
   ## Description
-  fafgfgfgvgafv
+  dfdfdfdfd
 
   ## Installation
-  fbvfabvafbv
+  gfagvfgvfgd
   
   ## Usage 
-  fbafbfbfabafgb
+  GAFGAFGFG
 
   ## Contributing
-  fbfgb
+  FGFGRFGrf
 
   ## Tests
-  fbvbgfb
+  gfdgfgfdgfd
 
   ## License
-  ![License (mit](https://img.shields.io/badge/License-mit_1.0-brightgreen.svg)
-  mit
-  [License (mit](https://opensource.org/licenses/mit)
+  ![License (MIT](https://img.shields.io/badge/License-MIT_1.0-brightgreen.svg)  - License Name: MIT  - License Link: [License (MIT](https://opensource.org/licenses/MIT)
 
   ## The URL of the deployed application
-  gbgb
+  fgfadg
 
   ## The URL of the GitHub repository
-  bgfbgfb
+  fgfgfgf
 
   ## Questions
   If you have any additional quesitons then please get in touch via github or email. Thank you.
-  - Github - https://github.com/vfvbafbvfabvafb
-  - Email address - fbafafvafvaf
+  - Github - https://github.com/fvafgvfgvafd
+  - Email address - dfadffvgfgvfavg
