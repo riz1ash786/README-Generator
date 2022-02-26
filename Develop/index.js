@@ -36,7 +36,7 @@ const questions = [
     message: "Please select a license",
     choices: [
       "AFL-3.0AGPL-3.0",
-      "APACHE-2.0",
+      "Apache",
       "BSD-0-CLAUSE",
       "CC-BY-SA-4.0",
       "ECL-2.0",

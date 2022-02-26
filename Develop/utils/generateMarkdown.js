@@ -11,7 +11,7 @@ const renderLicenseBadge = (license) => {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license) {
-    return `[License (${license}](https://opensource.org/licenses/${license})`;
+    return `[${license}](https://opensource.org/licenses/${license})`;
   } else {
     return "";
   }
@@ -59,8 +59,8 @@ function generateMarkdown(data) {
 
   ## License
   ${renderLicenseBadge(data.license)} <br />
-  - License Name: ${renderLicenseSection(data.license)} <br />
-  - License Link: ${renderLicenseLink(data.license)}
+  License Name: ${renderLicenseSection(data.license)} <br />
+  License Link: ${renderLicenseLink(data.license)}
 
   ## The URL of the deployed application
   ${data.urldeployed}
