@@ -66,7 +66,7 @@ If you have any additional quesitons then please get in touch via github or emai
 
 ## Video demonstration Link
 
-https://drive.google.com/drive/folders/1WCFCTv4sibV_9n_EjjVrbJe7X6ESdvvB
+https://drive.google.com/file/d/10XZhG5zRd4O9rARnujl2220a-U9zenGb/view?usp=sharing
 
 https://user-images.githubusercontent.com/93995881/155859005-4620a468-e4c3-402e-be8a-af484de2a1b0.mov
 
